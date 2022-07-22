@@ -1174,9 +1174,20 @@
 								"chat": "",
 								"logo": "dbz-characters.png",
 								"csv": ["dbz-characters.csv"]
-										}					
-				
-   ]
+										},
+		{
+			"name": "Card Club",
+			"slug": "card-club",
+			"description": "Cards for real cardplayers.",
+			"twitter": "enscardclub",
+			"website": "",
+			"chat": "https://discord.gg/2v6TCrfv",
+			"logo": "card-club.jpg",
+			"csv": [
+				"card-club.csv"
+			]
+		}
+	]
 }
 		
 				
